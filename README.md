@@ -5,3 +5,4 @@ Requisitos:
 Arquivo style.css
 Arquivo Index.html
 arquivo script.js
+Pastas com as imagens 
